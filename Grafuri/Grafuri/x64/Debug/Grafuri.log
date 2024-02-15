@@ -1,0 +1,14 @@
+﻿  Grafuri.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(38,13): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(52,11): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(71,18): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(83,9): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(89,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(187,9): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(188,14): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(201,8): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(224,8): warning C4133: '=': incompatible types - from 'nodLista *' to 'nodLista *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(246,37): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(248,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\Grafuri\Grafuri.c(92): warning C4715: 'get': not all control paths return a value
+  Grafuri.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Grafuri\x64\Debug\Grafuri.exe

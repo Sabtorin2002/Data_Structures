@@ -1,0 +1,24 @@
+﻿  ABC.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(21,37): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(22,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(24,12): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(25,13): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(35,31): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(35,14): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(41,33): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(41,16): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(57,16): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(58,16): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(65,15): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(68,15): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(76,17): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(77,17): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(87,17): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(88,17): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(99,27): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(100,27): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(116,20): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(117,20): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(134,23): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\Arbori_Binari_Cautare\ABC.c(136,23): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+  Arbori_Binari_Cautare.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Arbori_Binari_Cautare\x64\Debug\Arbori_Binari_Cautare.exe
