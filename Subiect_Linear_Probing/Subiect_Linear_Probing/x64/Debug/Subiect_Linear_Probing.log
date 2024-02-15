@@ -1,0 +1,11 @@
+﻿  Source.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Linear_Probing\Subiect_Linear_Probing\Source.c(91,9): warning C4013: 'strcmp' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Linear_Probing\Subiect_Linear_Probing\Source.c(191,37): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Linear_Probing\Subiect_Linear_Probing\Source.c(192,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Linear_Probing\Subiect_Linear_Probing\Source.c(193,13): warning C4477: 'fscanf' : format string '%u' requires an argument of type 'unsigned int *', but variadic argument 1 has type 'unsigned char *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Linear_Probing\Subiect_Linear_Probing\Source.c(193,13): message : consider using '%hhu' in the format string
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Linear_Probing\Subiect_Linear_Probing\Source.c(194,13): warning C4477: 'fscanf' : format string '%u' requires an argument of type 'unsigned int *', but variadic argument 1 has type 'unsigned char *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Linear_Probing\Subiect_Linear_Probing\Source.c(194,13): message : consider using '%hhu' in the format string
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Linear_Probing\Subiect_Linear_Probing\Source.c(179,7): warning C4101: 'buffer3': unreferenced local variable
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Linear_Probing\Subiect_Linear_Probing\Source.c(178,7): warning C4101: 'buffer2': unreferenced local variable
+  Subiect_Linear_Probing.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Linear_Probing\x64\Debug\Subiect_Linear_Probing.exe

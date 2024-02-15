@@ -1,0 +1,14 @@
+﻿  Source.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(27,40): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(28,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(42,9): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(43,14): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(44,13): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(59,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(69,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(73,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(85,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(94,10): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(114,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\Subiect_Lista_Dubla_Andrei\Source.c(129,9): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+  Subiect_Lista_Dubla_Andrei.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Lista_Dubla_Andrei\x64\Debug\Subiect_Lista_Dubla_Andrei.exe

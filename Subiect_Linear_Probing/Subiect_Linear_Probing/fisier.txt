@@ -1,0 +1,16 @@
+15
+1 Kayus 30 1 Sabin 3nopti 420
+2 Mariott 55 1 Sabin 1noapte 720
+3 Maria 90 7 Mircea 5nopti 200
+4 Vega 60 1 Dorian 4nopti 250
+5 Galmondo 35 2 Costel 2nopti 230
+6 Malibu 120 1 Marcel 6nopti 400
+7 Opulent 99 1 Ema 2nopti 999
+8 Vega 52 2 Dorian 4nopti 350
+9 Acvila 45 1 Marius 3nopti 280
+10 Disco 29 21 Tudor 5nopti 260
+11 Carpati 45 1 Marius 3nopti 280
+12 Vogue 29 21 Tudor 5nopti 260
+13 Marlboro 45 1 Marius 3nopti 280
+14 Dunhill 45 1 Marius 3nopti 280
+15 Vega 60 1 Dorian 2nopti 250

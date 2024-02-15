@@ -1,0 +1,6 @@
+5
+2 salam 5
+10 cascaval 10
+12 unt 20
+8 somon 50
+14 pui 60

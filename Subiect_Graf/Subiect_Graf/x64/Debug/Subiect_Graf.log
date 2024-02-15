@@ -1,0 +1,10 @@
+﻿  Source.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Graf\Subiect_Graf\Source.c(36,13): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Graf\Subiect_Graf\Source.c(48,9): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Graf\Subiect_Graf\Source.c(66,18): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Graf\Subiect_Graf\Source.c(77,9): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Graf\Subiect_Graf\Source.c(155,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Graf\Subiect_Graf\Source.c(201,37): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Graf\Subiect_Graf\Source.c(202,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Graf\Subiect_Graf\Source.c(86): warning C4715: 'get': not all control paths return a value
+  Subiect_Graf.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_Graf\x64\Debug\Subiect_Graf.exe
