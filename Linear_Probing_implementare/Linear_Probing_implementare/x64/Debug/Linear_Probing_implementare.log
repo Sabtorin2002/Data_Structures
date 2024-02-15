@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Linear_Probing_implementare\Linear_Probing_implementare\Source.c(95,28): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Linear_Probing_implementare\Linear_Probing_implementare\Source.c(96,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Linear_Probing_implementare.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Linear_Probing_implementare\x64\Debug\Linear_Probing_implementare.exe

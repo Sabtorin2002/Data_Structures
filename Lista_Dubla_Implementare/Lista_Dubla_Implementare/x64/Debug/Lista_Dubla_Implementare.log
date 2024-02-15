@@ -1,0 +1,10 @@
+﻿  Source.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Lista_Dubla_Implementare\Lista_Dubla_Implementare\Source.c(21,37): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Lista_Dubla_Implementare\Lista_Dubla_Implementare\Source.c(22,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Lista_Dubla_Implementare\Lista_Dubla_Implementare\Source.c(35,9): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Lista_Dubla_Implementare\Lista_Dubla_Implementare\Source.c(36,14): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Lista_Dubla_Implementare\Lista_Dubla_Implementare\Source.c(37,13): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Lista_Dubla_Implementare\Lista_Dubla_Implementare\Source.c(51,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Lista_Dubla_Implementare\Lista_Dubla_Implementare\Source.c(62,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Lista_Dubla_Implementare\Lista_Dubla_Implementare\Source.c(71,10): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+  Lista_Dubla_Implementare.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Lista_Dubla_Implementare\x64\Debug\Lista_Dubla_Implementare.exe
