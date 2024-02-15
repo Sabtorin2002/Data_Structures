@@ -1,0 +1,39 @@
+﻿  Source.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(24,42): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(25,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(31,12): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(32,13): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(44,31): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(44,14): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(50,33): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(50,16): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(66,16): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(67,16): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(75,15): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(78,15): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(86,17): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(87,17): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(111,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(115,23): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(116,23): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(131,20): warning C4018: '<': signed/unsigned mismatch
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(133,26): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(137,26): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(151,7): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(156,9): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(163,8): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(154,12): warning C4133: 'initializing': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(179,13): warning C4018: '<': signed/unsigned mismatch
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(180,29): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(180,14): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(182,14): warning C4018: '>': signed/unsigned mismatch
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(183,31): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(183,16): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(202,7): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(216,13): warning C4133: '=': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(211,11): warning C4133: 'initializing': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(240,38): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(240,65): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(254,20): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\Subiect_ABC_Rezervare\Source.c(255,20): warning C4133: 'function': incompatible types - from 'nodArb *' to 'nodArb *'
+  Subiect_ABC_Rezervare.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect_ABC_Rezervare\x64\Debug\Subiect_ABC_Rezervare.exe

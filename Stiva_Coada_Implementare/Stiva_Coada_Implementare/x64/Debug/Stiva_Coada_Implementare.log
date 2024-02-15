@@ -1,0 +1,18 @@
+﻿  Source.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(34,34): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(35,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(39,9): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodCoada *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(42,13): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodStiva *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(43,9): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodCoada *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(62,9): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(86,18): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(103,9): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(110,10): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(124,8): warning C4133: '=': incompatible types - from 'nodStiva *' to 'nodStiva *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(137,8): warning C4133: '=': incompatible types - from 'nodCoada *' to 'nodCoada *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(154,18): warning C4047: 'function': 'nodStiva **' differs in levels of indirection from 'nodStiva ***'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(154,13): warning C4024: 'pop': different types for formal and actual parameter 1
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(156,39): warning C4047: '=': 'char' differs in levels of indirection from 'char *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(185,8): warning C4133: 'function': incompatible types - from 'nodStiva **' to 'nodCoada **'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\Stiva_Coada_Implementare\Source.c(113): warning C4715: 'get': not all control paths return a value
+  Stiva_Coada_Implementare.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Stiva_Coada_Implementare\x64\Debug\Stiva_Coada_Implementare.exe
