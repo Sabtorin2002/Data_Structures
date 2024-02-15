@@ -1,0 +1,17 @@
+﻿  lista_liste.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(26,33): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(27,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(37,9): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(38,14): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(47,11): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(55,9): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(56,14): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(69,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(80,20): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(81,8): warning C4133: '=': incompatible types - from 'nodLP *' to 'nodLP *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(75,9): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLP *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(91,10): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(104,20): warning C4133: 'function': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(103,10): warning C4133: 'initializing': incompatible types - from 'nodLP *' to 'nodLP *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\TabelaHash\lista_liste.c(136,15): warning C4133: 'function': incompatible types - from 'nodLP *' to 'nodLS *'
+  TabelaHash.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\TabelaHash\x64\Debug\TabelaHash.exe

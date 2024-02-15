@@ -1,0 +1,15 @@
+﻿  Source.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(38,35): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(39,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(53,10): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(54,15): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(67,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(91,10): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(116,10): warning C4133: 'initializing': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(140,9): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(141,14): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(154,8): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(170,10): warning C4013: 'strcmp' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(174,11): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\Subiect2022_HashTable_Chaining\Source.c(217,11): warning C4133: '=': incompatible types - from 'nodLS *' to 'nodLS *'
+  Subiect2022_HashTable_Chaining.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Subiect2022_HashTable_Chaining\x64\Debug\Subiect2022_HashTable_Chaining.exe
