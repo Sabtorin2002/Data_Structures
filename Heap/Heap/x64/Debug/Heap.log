@@ -1,0 +1,6 @@
+﻿  Heap.c
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Heap\Heap\Heap.c(141,39): warning C4013: 'strlen' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Heap\Heap\Heap.c(142,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Heap\Heap\Heap.c(156,25): warning C4474: 'printf' : too many arguments passed for format string
+D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Heap\Heap\Heap.c(156,25): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Heap.vcxproj -> D:\Facultate\!Anu 2 Sem II\Structuri de date\!Sesiune\Heap\x64\Debug\Heap.exe
